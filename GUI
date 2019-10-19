@@ -1,6 +1,6 @@
 from tkinter import *
 import tkinter as tk
-from Runnable import Backend
+from QueryLicenses import Backend
 
 backend =  Backend()
 
